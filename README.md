@@ -1,2 +1,6 @@
-# Minetest-DrawTextures
-Remplazo de Texturas originales de minetest por unas dibujadas desde el pc con el programa gimp, el estilo de las texturas intenta mantener el estilo original del juego.
+# CocoMarck - DrawTextures
+- Remplazo de texturas default, por texturas dibujadas por mi.
+- El estilo de las texturas, intenta mantenerse fiel al original.
+
+El programa utilizado para dibujar las texturas fue: GIMP
+Se utilizo una tableta grafica para la realizacion de las texturas.
